@@ -172,7 +172,7 @@ th {
 aside {
   display: flex;
   flex-direction: column;
-  width: 800px;
+  width: 900px;
 }
 aside .card:first-child {
   flex: 1;
@@ -214,3 +214,4 @@ body:not(.light) th {
   color: white;
   font-weight: 600;
 }
+
